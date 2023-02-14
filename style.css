@@ -1,0 +1,23 @@
+body{ background-color: goldenrod;}
+
+.Header1{ display: 
+    flex;
+
+}
+
+.image{ 
+    display: flex; justify-content:flex-end;height: 300px;}
+ 
+.Header1{color: aliceblue;}
+
+.Hello {color: aliceblue;}
+
+
+
+
+.Para {color: aliceblue;}
+
+.buttons{display: flex;justify-content: flex-start; font-family: 'Courier New', Courier, monospace;}
+ .btn1 {margin-right: 5px; border-radius: 8px;}
+
+ .btn2 { margin-left: 5px; border-radius: 8px;}
